@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
+title: André Soravassi do Carmo
 plugins:
   - jekyll-relative-links
 relative_links:
