@@ -2,6 +2,10 @@
 layout: default
 ---
 
-## test test
+# Welcome!
 
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTAxNTRhMTctOTcxYi00ZTNiLTgwMzctMTJlMDJjZTRmM2IzIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+In this website I plan to post some of my projects, ranging from Python to Power BI. I hope you like it!
+
+## Power BI Dashboards
+
+[Seattle Crime Trends](./seattle-crime.html).
