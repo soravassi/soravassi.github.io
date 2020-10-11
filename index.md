@@ -3,9 +3,11 @@ layout: default
 ---
 
 # Welcome!
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+
 <html>
  <head>
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     <style>
     {
         box-sizing: border-box;
