@@ -5,8 +5,7 @@ layout: default
 # Welcome!
 
 
-<html>
- <head>
+<head>
   <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     <style>
     {
@@ -37,7 +36,6 @@ In this website I plan to post some of my personal projects.</p>
         </div>
     </div>
  </body>
-</html>
 
 
 ## Power BI Dashboards
