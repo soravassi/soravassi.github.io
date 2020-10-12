@@ -15,6 +15,32 @@ layout: default
     float: left;
     width: 50%;
     }
+        
+    .button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #f2f2f2; 
+  color: black; 
+  border: 2px solid black;
+}
+
+.button1:hover {
+  background-color: #666666;
+  color: white;
+}
+
+
 
     .row:after {
     content: "";
@@ -38,6 +64,9 @@ In this website I plan to post some of my personal projects.</p>
 
 
 ## Power BI Dashboards
+
+<a href="https://google.com" class="button button 1">Go to Google</a>
+
 
 [Seattle Crime Trends](./seattle-crime.html). | [Covid Dashboard](./covid-dashboard.html)
 
