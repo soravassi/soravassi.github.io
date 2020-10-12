@@ -16,6 +16,10 @@ layout: default
     width: 50%;
     }
         
+   br {
+        line-height: 50%;
+     }
+        
 .button {
   font-family : inherit;
   border: none;
@@ -78,6 +82,7 @@ In this website I plan to post some of my personal projects.</p>
   <img src="pbi.png" alt="logo" />
   <h2>Power BI Dashboards</h2>
 </div>
+<br/>
 
 
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
