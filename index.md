@@ -39,4 +39,4 @@ In this website I plan to post some of my personal projects.</p>
 
 ## Power BI Dashboards
 
-[Seattle Crime Trends](./seattle-crime.html).
+[Seattle Crime Trends](./seattle-crime.html). | [Covid Dashboard](./covid-dashboard.html)
