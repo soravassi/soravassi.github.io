@@ -84,9 +84,18 @@ In this website I plan to post some of my personal projects.</p>
 <p></p>
  
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
+
 <a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
 
 
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
 ## Salesforce
 
 <a href="https://trailblazer.me/id/soravassi" class="button">Trailhead Profile</a>
