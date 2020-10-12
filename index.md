@@ -42,7 +42,6 @@ layout: default
 }
 
 
-
     .row:after {
     content: "";
     display: table;
@@ -69,9 +68,6 @@ In this website I plan to post some of my personal projects.</p>
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
 <a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
 
-
-
-[Seattle Crime Trends](./seattle-crime.html). | [Covid Dashboard](./covid-dashboard.html)
 
 ## Salesforce
 
