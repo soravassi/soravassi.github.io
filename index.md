@@ -42,8 +42,8 @@ layout: default
 }
 .header img {
   float: left;
-  width: 45px;
-  height: 45px;
+  width: 50px;
+  height: 50px;
   border: 0px
 }
 
