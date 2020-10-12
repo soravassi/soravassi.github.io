@@ -1,3 +1,4 @@
+<head>
 <style>
 a {
   text-decoration: none;
@@ -21,6 +22,7 @@ a:hover {
   border-radius: 50%;
 }
 </style>
+</head>
 # Seattle Crime Trends
 
 <a href="./" class="previous round">&#8249;</a>
