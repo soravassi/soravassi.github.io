@@ -16,10 +16,7 @@ layout: default
     width: 50%;
     }
         
-br {
-   display: block;
-   margin: 10px 0;
-}
+
         
 .button {
   font-family : inherit;
@@ -47,7 +44,7 @@ br {
 }
 .header img {
   float: left;
-  height: 50px;
+  height: 48px;
   border: 0px
 }
 
@@ -83,7 +80,6 @@ In this website I plan to post some of my personal projects.</p>
   <img src="pbi.png" alt="logo" />
   <h2>Power BI Dashboards</h2>
 </div>
-#####  
 
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
 <a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
