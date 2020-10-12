@@ -16,9 +16,10 @@ layout: default
     width: 50%;
     }
         
-   br {
-        line-height: 25%;
-     }
+br {
+   display: block;
+   margin: 10px 0;
+}
         
 .button {
   font-family : inherit;
