@@ -1,3 +1,44 @@
+<head>
+<style>
+
+.button {
+  font-family : inherit;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  display: inline-block;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button {
+  background-color: #f2f2f2; 
+  color: black; 
+  border: 2px solid black;
+}
+
+.button:hover {
+  background-color: #666666;
+  color: white;
+}
+
+
+.previous {
+  background-color: #f2f2f2;
+  color: black;
+  border: 0.5px solid black;
+
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+
+
+
 # Covid Dashboard
 
 [<Back](./)
