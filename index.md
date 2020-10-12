@@ -40,6 +40,12 @@ layout: default
   background-color: #666666;
   color: white;
 }
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
 
 
     .row:after {
