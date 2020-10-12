@@ -38,10 +38,10 @@ In this website I plan to post some of my personal projects.</p>
 
 ## Salesforce
 
-<div id="trailhead-widget-container">
-   <img src="https://jitendrazaa.com/loading.gif" />
+<div id="ImageDiv" style="text-align:center;"> 
+<img src="http://salesforcenextgen.com/wp-content/themes/twentysixteen/loading1.gif" width="50" height="50" />
 </div>
-<script async src="https://jitendrazaa.com/Trailhead.php?profileId=soravassi" type="text/javascript">  </script>
+<script async src="http://salesforcenextgen.com/wp-content/themes/twentysixteen/trailheadWidget.php?yourProfileId=soravassi" type="text/javascript">  </script>
 
 ## Power BI Dashboards
 
