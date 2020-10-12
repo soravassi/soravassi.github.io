@@ -36,13 +36,11 @@ In this website I plan to post some of my personal projects.</p>
     </div>
  </body>
 
-## Salesforce
-
-<div id="ImageDiv" style="text-align:center;"> 
-<img src="http://salesforcenextgen.com/wp-content/themes/twentysixteen/loading1.gif" width="50" height="50" />
-</div>
-<script async src="http://salesforcenextgen.com/wp-content/themes/twentysixteen/trailheadWidget.php?yourProfileId=soravassi" type="text/javascript">  </script>
 
 ## Power BI Dashboards
 
 [Seattle Crime Trends](./seattle-crime.html). | [Covid Dashboard](./covid-dashboard.html)
+
+## Salesforce
+
+[Trailhead Profile](https://trailblazer.me/id/soravassi)
