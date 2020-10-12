@@ -50,7 +50,7 @@ layout: default
 
 .header h2 {
   position: relative;
-  top: 18px;
+  top: 20px;
   left: 10px;
 }
 
