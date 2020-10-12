@@ -63,7 +63,10 @@ In this website I plan to post some of my personal projects.</p>
  </body>
 
 
-## Power BI Dashboards
+<div class="header">
+  <img src="img/logo.png" alt="logo" />
+  <h2>Power BI Dashboards</h2>
+</div>oards
 
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
 <a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
