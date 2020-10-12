@@ -16,7 +16,8 @@ layout: default
     width: 50%;
     }
         
-    .button {
+.button {
+  font-family : inherit;
   border: none;
   color: white;
   padding: 16px 32px;
@@ -29,13 +30,13 @@ layout: default
   cursor: pointer;
 }
 
-.button1 {
+.button {
   background-color: #f2f2f2; 
   color: black; 
   border: 2px solid black;
 }
 
-.button1:hover {
+.button:hover {
   background-color: #666666;
   color: white;
 }
@@ -66,6 +67,8 @@ In this website I plan to post some of my personal projects.</p>
 ## Power BI Dashboards
 
 <a href="https://google.com" class="button button 1">Go to Google</a>
+<button class="button button1">Seattle Crime Trends</button>
+<a href="https://google.com" class="button">Go to Google</a>
 
 
 [Seattle Crime Trends](./seattle-crime.html). | [Covid Dashboard](./covid-dashboard.html)
