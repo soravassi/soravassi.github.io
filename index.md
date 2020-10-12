@@ -66,9 +66,9 @@ In this website I plan to post some of my personal projects.</p>
 
 ## Power BI Dashboards
 
-<a href="https://google.com" class="button button 1">Go to Google</a>
-<button class="button button1">Seattle Crime Trends</button>
-<a href="https://google.com" class="button">Go to Google</a>
+<a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
+<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+
 
 
 [Seattle Crime Trends](./seattle-crime.html). | [Covid Dashboard](./covid-dashboard.html)
