@@ -47,6 +47,12 @@ layout: default
   background: #555;
 }
 
+.header h2 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
 
     .row:after {
     content: "";
