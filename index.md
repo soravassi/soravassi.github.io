@@ -64,7 +64,7 @@ In this website I plan to post some of my personal projects.</p>
 
 
 <div class="header">
-  <img src="img/logo.png" alt="logo" />
+  <img src="pbi.png" alt="logo" />
   <h2>Power BI Dashboards</h2>
 </div>oards
 
