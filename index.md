@@ -71,4 +71,4 @@ In this website I plan to post some of my personal projects.</p>
 
 ## Salesforce
 
-[Trailhead Profile](https://trailblazer.me/id/soravassi)
+<a href="https://trailblazer.me/id/soravassi" class="button">Covid Dashboard</a>
