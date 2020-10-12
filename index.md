@@ -89,4 +89,4 @@ In this website I plan to post some of my personal projects.</p>
   <h2>Salesforce</h2>
 </div>
 <br>
-<a href="https://trailblazer.me/id/soravassi" class="button">Trailhead Profile</a>
+<a href="https://trailblazer.me/id/soravassi" target="_blank" class="button">Trailhead Profile</a>
