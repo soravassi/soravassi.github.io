@@ -17,7 +17,7 @@ layout: default
     }
         
    br {
-        line-height: 50%;
+        line-height: 25%;
      }
         
 .button {
@@ -82,7 +82,7 @@ In this website I plan to post some of my personal projects.</p>
   <img src="pbi.png" alt="logo" />
   <h2>Power BI Dashboards</h2>
 </div>
-<br/>
+<br>
 
 
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
