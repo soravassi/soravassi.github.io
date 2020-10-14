@@ -24,6 +24,8 @@ layout: default
 @media only screen and (min-width: 768px) {
   /* For desktop: */
   .col-1 {width: 50%;}
+  .col-2 {width: 50%;}
+
 }
 
 
@@ -87,7 +89,7 @@ layout: default
         <div class="col-1">
             <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" target = "_blank" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge'>André Soravassi do Carmo</a></div></p>
         </div>
-        <div class="col-1 right">
+        <div class="col-2 right">
             <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
 I have also worked with Data Analysis and Business Intelligence using tools like Python and Power BI.
 In this website I plan to post some of my personal projects.</p>
