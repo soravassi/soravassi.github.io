@@ -75,7 +75,7 @@ layout: default
 }
 .header h2 {
   position: relative;
-  top: 22px;
+  top: 25px;
   left: 10px;
 }
 .row::after {
