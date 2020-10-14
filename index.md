@@ -4,27 +4,25 @@ layout: default
 # Welcome!
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <head>
+    
+    
     <style>
+    
+    
     {
         box-sizing: border-box;
     }
     /* Set additional styling options for the columns*/
-    .column {
-    float: left;
-    width: 50%;
-    display: inline-block;
-
-    }
     
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 560px) {
   /* For desktop: */
   .col-1 {width: 50%;}
-  .col-2 {width: 50%;}
+  .col-2 {width: 40%;}
 
 }
 
@@ -89,7 +87,7 @@ layout: default
         <div class="col-1">
             <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" target = "_blank" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge'>André Soravassi do Carmo</a></div></p>
         </div>
-        <div class="col-2 right">
+        <div class="col-2">
             <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
 I have also worked with Data Analysis and Business Intelligence using tools like Python and Power BI.
 In this website I plan to post some of my personal projects.</p>
