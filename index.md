@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
 # Welcome!
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 <head>
     <style>
     {
@@ -14,32 +12,10 @@ layout: default
     .column {
     float: left;
     width: 50%;
+    display: inline-block;
+
     }
-    
-.columnWrapper div {
-  display: inline-block;
-  width: 100%;
-  height: 10rem;
-  
-  text-align: center;
-  line-height: 10rem;
-  margin-bottom: 0.5rem;
-}
 
-.columnWrapper {
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2;
-  margin: 0 auto;
-}
-
-@media screen and (max-width: 500px) {
-  .columnWrapper {
-    -webkit-column-count: 1;
-    -moz-column-count: 1;
-    column-count: 1;
-  }
-}
 
         
 .button {
@@ -55,13 +31,11 @@ layout: default
   transition-duration: 0.4s;
   cursor: pointer;
 }
-
 .button {
   background-color: #f2f2f2; 
   color: black; 
   border: 2px solid black;
 }
-
 .button:hover {
   background-color: #666666;
   color: white;
@@ -71,14 +45,11 @@ layout: default
   height: 50px;
   border: 0px
 }
-
 .header h2 {
   position: relative;
   top: 20px;
   left: 10px;
 }
-
-
     .row:after {
     content: "";
     display: table;
@@ -87,18 +58,17 @@ layout: default
     </style>
  </head>
  <body>
-    <div class="columnWrapper">
- 
-           <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" target = "_blank" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge'>André Soravassi do Carmo</a></div>
-        
-            <div><p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
+    <div class="row">
+        <div class="column">
+            <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" target = "_blank" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge'>André Soravassi do Carmo</a></div></p>
+        </div>
+        <div class="column">
+            <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
 I have also worked with Data Analysis and Business Intelligence using tools like Python and Power BI.
-In this website I plan to post some of my personal projects</p></div>
+In this website I plan to post some of my personal projects.</p>
         </div>
     </div>
  </body>
-
-
 <div class="header">
   <img src="pbi.png" alt="logo" />
   <h2>Power BI Dashboards</h2>
@@ -106,7 +76,6 @@ In this website I plan to post some of my personal projects</p></div>
 <br><br>
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
 <a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
-
 <div class="header">
   <img src="sfdc.png" alt="logo" />
   <h2>Salesforce</h2>
