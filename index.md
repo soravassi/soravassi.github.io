@@ -112,6 +112,13 @@ In this website I plan to post some of my personal projects.</p>
 <br><br>
 <a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
 <a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
+
+<div class="header">
+  <img src="tableau.png" alt="logo" />
+  <h2>Tableau Dashboards</h2>
+</div>
+<br><br>
+
 <div class="header">
   <img src="sfdc.png" alt="logo" />
   <h2>Salesforce</h2>
