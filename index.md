@@ -24,7 +24,7 @@ layout: default
 }
 
 
-@media only screen and (min-width: 650px) {
+@media only screen and (min-width: 700px) {
   /* For desktop: */
   .col-1 {width: 50%;}
   .col-2 {width: 50%;}
