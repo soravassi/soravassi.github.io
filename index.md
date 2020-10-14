@@ -18,6 +18,11 @@ layout: default
 }
 
 
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
 
 @media only screen and (min-width: 560px) {
   /* For desktop: */
@@ -26,10 +31,6 @@ layout: default
 
 }
 
-/* For mobile phones: */
-[class*="col-"] {
-  width: 100%;
-}
 
 
 .float-container {
