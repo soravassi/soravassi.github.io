@@ -27,13 +27,11 @@ layout: default
 }
 
 .float-container {
-    padding: 20px;
 }
 
 .float-child {
     width: 50%;
     float: left;
-    padding: 20px;
 }  
 
         
@@ -86,9 +84,9 @@ layout: default
 
  <div class="float-child">
 
-   <div><p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
+   <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
 I have also worked with Data Analysis and Business Intelligence using tools like Python and Power BI.
-In this website I plan to post some of my personal projects.</p></div>
+In this website I plan to post some of my personal projects.</p>
         </div>
   </div>
  
