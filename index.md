@@ -80,7 +80,7 @@ layout: default
 .row::after {
   content: "";
   clear: both;
-  display: block;
+  display: table;
 }
 
     </style>
