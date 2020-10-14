@@ -13,19 +13,23 @@ layout: default
         box-sizing: border-box;
     }
     /* Set additional styling options for the columns*/
-    
-/* For mobile phones: */
 [class*="col-"] {
-  width: 100%;
+  float: left;
 }
+
+
 
 @media only screen and (min-width: 560px) {
   /* For desktop: */
   .col-1 {width: 50%;}
-  .col-2 {width: 40%;}
+  .col-2 {width: 50%;}
 
 }
 
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
 
 
 .float-container {
