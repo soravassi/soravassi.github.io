@@ -90,7 +90,7 @@ layout: default
  <body>
     <div class="row">
         <div class="col-1">
-            <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" target = "_blank" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge'>André Soravassi do Carmo</a></div></p>
+            <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge' target = "_blank">André Soravassi do Carmo</a></div></p>
         </div>
         <div class="col-2">
             <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
