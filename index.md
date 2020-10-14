@@ -13,7 +13,7 @@ layout: default
     /* Set additional styling options for the columns*/
     .column {
     float: left;
-    width: 50%;
+    width: 25%;
     }
         
 
