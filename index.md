@@ -16,6 +16,15 @@ layout: default
 
     }
 
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+}
 
         
 .button {
@@ -58,6 +67,8 @@ layout: default
     </style>
  </head>
  <body>
+  <div id=”content-desktop”>
+
     <div class="row">
         <div class="column">
             <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" target = "_blank" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge'>André Soravassi do Carmo</a></div></p>
@@ -69,6 +80,9 @@ In this website I plan to post some of my personal projects.</p>
         </div>
     </div>
  </body>
+ </div>
+
+
 <div class="header">
   <img src="pbi.png" alt="logo" />
   <h2>Power BI Dashboards</h2>
