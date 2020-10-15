@@ -106,8 +106,8 @@ In this website I plan to post some of my personal projects.</p>
     </div>
  </body>
 
-<div class = "tableauCV'>
-<iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450px'></iframe>
+<div class = "tableauCV">
+<iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400px'></iframe>
 </div>
 
 
