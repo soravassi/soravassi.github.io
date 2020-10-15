@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<a href="#Projects" class = "button">Jump to Projects</a>
+
 # About me
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <head>
@@ -19,7 +22,7 @@ layout: default
 
 
 /* For mobile phones: */
-[class*="col-"] {
+#[class*="col-"] {
   width: 100%;
 }
 
@@ -112,7 +115,7 @@ In this website I plan to post some of my personal projects.</p>
 
 
 
-
+<a name="Projects"></a>
 <div class="header">
   <img src="pbi.png" alt="logo" />
   <h2>Power BI Dashboards</h2>
