@@ -37,12 +37,14 @@ html, body { height: 100% }
 </style>
 </head>
 
-# Fifa 19 Manager Mode
+# FIFA 19 Manager Mode
 
 <a href="./" class="button previous round">&#8249;</a>
 
-As a consequence of Covid-19, I had started to hear in day-to-day conversations that violent crime rates were going up in major cities, including Seattle.
-That got me thinking about Hans Gosling's book [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness) in which he outlines that the world is better today than in the past in many aspects, including violent crime, contrary to popular belief. This inspired me to leverage data from [http://data.seattle.gov](http://data.seattle.gov) and break down crime trends in Seattle and see if there was indeed a reason to worry. __This Test dashboard refreshes daily.__
+One of my favorite features of FIFA is their manager mode, in which you get to play as the head coach of any club you choose. Some of this mode's aspects include, besides playing the actual football matches: setting up scout networks, building the youth academy and, of course, __transfers__. Since it is a game mode that spans through several seasons,  knowing which young players have the most potential can give you the best bang for the buck - specially if you are doing a "road to glory" (when you choose smaller club, perhaps on lower divisions, and bring it up to win the Champions League). 
+This dashboard shows which young players (17-21 year olds) have the best potential (at least 85/100 overall), as well as their release clauses, market value, and nationality.
+
+*If you open this on your mobile device, you'll probably see a simplified version of the dashboard. To see it in full, you may rotate your phone screen to the landscape orientation, or open this page on your computer*
 
 <iframe src="https://public.tableau.com/views/Fifa19-Potential/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800px'></iframe>
 
