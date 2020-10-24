@@ -99,7 +99,9 @@ layout: default
 <h2>Featured Project</h2>
 
 <script type="text/javascript">       var myArray = [
-  "<section class = "inner-large"><iframe src=\"https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no\" width = '100%' height = '400px'></iframe></section>"
+  "<section class = \"inner-large\"><iframe src=\"https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no\" width = '100%' height = '400px'></iframe></section>",
+    
+   "<section class = \"inner-large\"><iframe width=\"100%\" height=\"373.5\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTAxNTRhMTctOTcxYi00ZTNiLTgwMzctMTJlMDJjZTRmM2IzIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9&pageName=ReportSection88b8ebc95658b800298e\" frameborder=\"0\" allowFullScreen=\"true\"></iframe></section>"
  
 ];
 
