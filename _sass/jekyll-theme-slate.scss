@@ -398,11 +398,19 @@ Small Device Styles
     max-width: 100%;
   }
 }
+  .topnav {
+    float = "left";
+  }
+  
 
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
   }
+    .topnav {
+    float = "left";
+  }
+  
 
   #downloads {
     display: none;
@@ -496,3 +504,6 @@ Small Device Styles
   }
 
 }
+
+
+
