@@ -100,7 +100,7 @@ layout: default
 
 <script type="text/javascript">       var myArray = [
   "<section class = \"inner-large\">
-    <div class="\header\">
+    <div class=\"header\">
   <img src=\"tableau.png\" alt=\"logo\" />
   <h3>Tableau Dashboards</h3>
 </div>
