@@ -97,8 +97,6 @@ layout: default
 <meta property="og:url" content="http://soravassi.github.io">
    <meta property="og:image" content="./social-preview.png">
 <meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="800"> 
-<meta property="og:image:height" content="600"> 
  </head>
  
 
