@@ -105,7 +105,7 @@ layout: default
 
 var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
 
-document.body.innerHTML = randomItem;
+document.body.innerHTML += randomItem;
     </script> 
 </section>
 
