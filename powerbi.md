@@ -29,7 +29,7 @@ img {vertical-align: middle;}
   width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: white;
+  color: black;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -45,12 +45,12 @@ img {vertical-align: middle;}
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: #ffffff;
 }
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: #000000;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
