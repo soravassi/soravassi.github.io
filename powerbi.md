@@ -263,7 +263,5 @@ function showSlides(n) {
 
  <section class = "inner-medium">
     
-     <p>My first experience with Power BI was at my summer internship at Icertis - a contact management software as a service company. I got tasked to replace a whiteboard where people would sometimes update metrics relating to Marketing engagement with two TV screens showing several up to date dashboards. It was a great project where I could really learn by doing and implement new features as they were being released (such as Dataflows)</p>
-    <p>From that point onwards, everytime I have some question that can be answered with data one of the main tools I use is Power BI. Above you can see some example of projects where I have started with some curiosity and ended up with a dashboard</p>
- 
+
  </section>
