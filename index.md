@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<a href="#Projects" class = "button">Jump to Projects</a>
 
 # About me
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
