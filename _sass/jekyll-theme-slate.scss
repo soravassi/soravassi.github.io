@@ -52,6 +52,17 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
+    .column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 .topnav {
   overflow: hidden;
@@ -397,18 +408,22 @@ Small Device Styles
   img {
     max-width: 100%;
   }
-}
-   .topnav {
-    float = left;
+     .topnav a {
+    float: left;
   }
+    .column {
+    width: 100%;
+  }
+}
+
   
 
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
   }
-   .topnav {
-    float = left;
+   .topnav a {
+    float: left;
   }
   
 
@@ -452,6 +467,9 @@ Small Device Styles
   code, pre {
     font-size: 11px;
   }
+    .column {
+    width: 100%;
+  }
 
 }
 
@@ -459,8 +477,8 @@ Small Device Styles
   body {
     font-size:14px;
   }
-     .topnav {
-    float = left;
+     .topnav a {
+    float: left;
   }
 
   #downloads {
@@ -504,6 +522,9 @@ Small Device Styles
     min-width: 240px;
     max-width: 320px;
     font-size: 11px;
+  }
+    .column {
+    width: 100%;
   }
 
 }
