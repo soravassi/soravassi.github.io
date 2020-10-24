@@ -21,6 +21,13 @@
   display: table;
   clear: both;
 }
+    
+    /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
   </style>
   <script>
 function myFunction() {
@@ -59,10 +66,6 @@ function myFunction() {
 </div>
             </div>
    </div>
-
- 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-
 
         </header>
     </div>
