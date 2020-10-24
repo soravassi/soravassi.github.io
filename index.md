@@ -92,6 +92,9 @@ layout: default
 }
 
     </style>
+    <meta property="og:title" content="Andre Soravassi do Carmo">
+<meta property="og:description" content="Andre Carmo's portfolio">
+<meta property="og:url" content="http://soravassi.github.io">
    <meta property="og:image" content="./social-preview.png">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="800"> 
