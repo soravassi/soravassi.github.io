@@ -208,7 +208,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-    <a href = "./seattle-crime"><img src="seattle-crime.png" style="width:100%"></a>
+    <a href = "./powerbi/seattle-crime"><img src="seattle-crime.png" style="width:100%"></a>
   <div class="text">Seattle Crime Trends</div>
 </div>
 
