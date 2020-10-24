@@ -444,10 +444,11 @@ Small Device Styles
   
     .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
-    position: relative;
-
+    position: absolute;
+    right: 0;
+    top: 0;
+    
   }
-  
       .column1 {
   float: left;
   width: 100%;
@@ -473,8 +474,10 @@ Small Device Styles
   
     .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
-    position: relative;
-
+    position: absolute;
+    right: 0;
+    top: 0;
+    
   }
   
         .column1 {
@@ -552,9 +555,11 @@ Small Device Styles
   }
   
     .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: relative;
-  
+   .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    
   }
   
         .column1 {
