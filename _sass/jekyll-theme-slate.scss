@@ -398,9 +398,16 @@ Full-Width Styles
   background: #212121;
 }
 
-.inner-larger {
+.inner-medium {
   position: relative;
   max-width: 960px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+.inner-large {
+  position: relative;
+  max-width: 1280px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -444,7 +451,15 @@ Small Device Styles
     min-width: 320px;
     max-width: 480px;
   }
-
+    .inner-medium {
+    min-width: 320px;
+    max-width: 480px;
+  }
+  
+      .inner-large {
+    min-width: 320px;
+    max-width: 480px;
+  }
   #project_title {
   font-size: 24px;
   }
@@ -495,6 +510,16 @@ Small Device Styles
   }
 
   .inner {
+    min-width: 240px;
+    max-width: 320px;
+  }
+  
+    .inner-medium {
+    min-width: 240px;
+    max-width: 320px;
+  }
+  
+      .inner-large {
     min-width: 240px;
     max-width: 320px;
   }
