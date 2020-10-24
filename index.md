@@ -96,6 +96,7 @@ layout: default
  </head>
 
  <body>
+ <section class = "inner">
     <div class="row">
         <div class="col-1">
             <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge' target = "_blank">André Soravassi do Carmo</a></div></p>
@@ -106,10 +107,11 @@ I have also worked with Data Analysis and Business Intelligence using tools like
 In this website I plan to post some of my personal projects.</p>
         </div>
     </div>
+ </section>
  </body>
-<div class = "outer">
+<section class = "inner-larger">
 <iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400px'></iframe>
-</div>
+</section>
 
 
 
