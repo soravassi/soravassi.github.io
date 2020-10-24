@@ -9,7 +9,19 @@
 
 {% seo %}
   </head>
-  
+  <style>
+    .column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+  </style>
   <script>
 function myFunction() {
   var x = document.getElementById("myTopnav");
@@ -29,8 +41,15 @@ function myFunction() {
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="outer">
-          <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
+          
+          
+          <div class="row">
+  <div class="column">
+             <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+    </div>
+  <div class="column">
+   <div class="topnav" id="myTopnav">
+  <a href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
@@ -38,18 +57,13 @@ function myFunction() {
     <i class="fa fa-bars"></i>
   </a>
 </div>
+            </div>
+   </div>
 
  
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
         </header>
     </div>
 
