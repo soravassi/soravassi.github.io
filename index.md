@@ -96,7 +96,17 @@ layout: default
  
 
 <section class = "inner-large">
- <h2>In a nutshell</h2>
-<iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400px'></iframe>
+     <h2>Featured Project</h2>
+
+    <script>  
+        var myArray = [
+  <iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400px'></iframe>
+ 
+];
+
+var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
+
+document.body.innerHTML = randomItem;
+    </script> 
 </section>
 
