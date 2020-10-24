@@ -26,10 +26,10 @@ layout: default
 }
 
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 960px) {
   /* For desktop: */
-  .col-1 {width: 50%;}
-  .col-2 {width: 50%;}
+  .col-1 {width: 30%;}
+  .col-2 {width: 70%;}
 
 }
 
@@ -96,7 +96,7 @@ layout: default
  </head>
 
  <body>
- <section class = "inner-large">
+ <section class = "inner-medium">
     <div class="row">
         <div class="col-1">
             <p><div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge' target = "_blank">André Soravassi do Carmo</a></div></p>
@@ -109,6 +109,6 @@ In this website I plan to post some of my personal projects.</p>
     </div>
  </section>
  </body>
-<section class = "inner-large">
+<section class = "inner-medium">
 <iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400px'></iframe>
 </section>
