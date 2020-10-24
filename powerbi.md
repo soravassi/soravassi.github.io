@@ -43,6 +43,12 @@ img {vertical-align: middle;}
   right: 0;
   border-radius: 3px 0 0 3px;
 }
+/* Position the "prev button" to the left */
+
+.prev {
+  left: 0;
+  border-radius: 3px 0 0 3px;
+}
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
