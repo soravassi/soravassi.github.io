@@ -213,8 +213,8 @@ In this website I plan to post some of my personal projects.</p>
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="pbi.png" style="width:100%">
-  <div class="text">Caption Text</div>
+  <img src="social-preview.png" style="width:100%">
+  <div class="text">TESTE HELLO</div>
 </div>
 
 <div class="mySlides fade">
