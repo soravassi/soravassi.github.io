@@ -203,7 +203,7 @@ img {vertical-align: middle;}
 
  </body>
 <section class = "inner-medium">
- <h2>Power BI</h2>
+ <h2>Tableau</h2>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
