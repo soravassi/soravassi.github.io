@@ -99,7 +99,7 @@ layout: default
 <h2>Featured Project</h2>
 
 <script type="text/javascript">       var myArray = [
-  "<iframe src=\"https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no\" width = '100%' height = '400px'></iframe>"
+  "<section class = "inner-large"><iframe src=\"https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no\" width = '100%' height = '400px'></iframe></section>"
  
 ];
 
