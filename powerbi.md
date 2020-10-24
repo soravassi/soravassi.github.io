@@ -58,7 +58,7 @@ img {vertical-align: middle;}
   bottom: 8px;
   width: 100%;
   text-align: center;
-  background: #ffffff
+  background: #f2f2f2
 }
 
 /* Number text (1/3 etc) */
