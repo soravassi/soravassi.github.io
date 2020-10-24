@@ -40,7 +40,7 @@
 
  <h2>Seattle Crime Trends</h2>
 
-<a href="./" class="button previous round">&#8249;</a>
+<a href="." class="button previous round">&#8249;</a>
 
 <p>As a consequence of Covid-19, I had started to hear in day-to-day conversations that violent crime rates were going up in major cities, including Seattle.
 That got me thinking about Hans Gosling's book Factfulness in which he outlines that the world is better today than in the past in many aspects, including violent crime, contrary to popular belief. This inspired me to leverage data from http://data.seattle.gov and break down crime trends in Seattle and see if there was indeed a reason to worry.</p>
