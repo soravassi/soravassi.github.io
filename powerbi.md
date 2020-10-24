@@ -191,29 +191,16 @@ img {vertical-align: middle;}
     </style>
  </head>
  <body>
- <section class = "inner-medium">
-      <h2>Power BI</h2>
 
-    <div class="row">
-        <div class="col-1">
-            <img src="pbi.png" alt="PowerBI logo" width="330"/>
-            
-        </div>
-        <div class="col-2">
-            <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
-I have also worked with Data Analysis and Business Intelligence using tools like Python and Power BI.
-In this website I plan to post some of my personal projects.</p>
-        </div>
-    </div>
- </section>
  </body>
 <section class = "inner-medium">
+ <h2>Power BI</h2>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="social-preview.png" style="width:100%">
-  <div class="text">TESTE HELLO</div>
+    <a href = "./seattle-crime"><img src="seattle-crime.png" style="width:100%"></a>
+  <div class="text">Seattle Crime Trends</div>
 </div>
 
 <div class="mySlides fade">
@@ -269,3 +256,10 @@ function showSlides(n) {
 }
 </script>
 </section>
+
+ <section class = "inner-medium">
+    
+     <p>My first experience with Power BI was at my summer internship at Icertis - a contact management software as a service company. I got tasked to replace a whiteboard where people would sometimes update metrics relating to Marketing engagement with two TV screens showing several up to date dashboards. It was a great project where I could really learn by doing and implement new features as they were being released (such as Dataflows)</p>
+    <p>From that point onwards, everytime I have some question that can be answered with data one of the main tools I use is Power BI. Above you can see some example of projects where I have started with some curiosity and ended up with a dashboard</p>
+ 
+ </section>
