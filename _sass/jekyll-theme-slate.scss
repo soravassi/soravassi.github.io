@@ -52,7 +52,11 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
-    .column {
+    .column1 {
+  float: left;
+  width: 50%;
+}
+    .column2 {
   float: left;
   width: 50%;
 }
@@ -444,6 +448,15 @@ Small Device Styles
     right: 0;
     top: 0;
   }
+  
+      .column1 {
+  float: left;
+  width: 80%;
+}
+    .column2 {
+  float: left;
+  width: 20%;
+}
 
 }
 
@@ -465,6 +478,15 @@ Small Device Styles
     right: 0;
     top: 0;
   }
+  
+        .column1 {
+  float: left;
+  width: 80%;
+}
+    .column2 {
+  float: left;
+  width: 20%;
+}
   
 
   #downloads {
@@ -537,6 +559,15 @@ Small Device Styles
     right: 0;
     top: 0;
   }
+  
+        .column1 {
+  float: left;
+  width: 80%;
+}
+    .column2 {
+  float: left;
+  width: 20%;
+}
 
   #downloads {
     display: none;
