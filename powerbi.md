@@ -17,7 +17,9 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: 0px auto;
+  text-align:center; 
+
 }
 
 /* Next & previous buttons */
@@ -56,6 +58,7 @@ img {vertical-align: middle;}
   bottom: 8px;
   width: 100%;
   text-align: center;
+  background: #ffffff
 }
 
 /* Number text (1/3 etc) */
