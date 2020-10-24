@@ -27,8 +27,8 @@ layout: default
 
 @media only screen and (min-width: 960px) {
   /* For desktop: */
-  .col-1 {width: 30%;}
-  .col-2 {width: 70%;}
+  .col-1 {width: 40%;}
+  .col-2 {width: 60%;}
 
 }
 
