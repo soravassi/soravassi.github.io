@@ -95,45 +95,8 @@ layout: default
     </style>
  </head>
 
- <body>
- <section class = "inner">
-    <div class="row">
-        <div class="col-1">
-            <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="andrescarmo"><a class="LI-simple-link" href='https://br.linkedin.com/in/andrescarmo?trk=profile-badge' target = "_blank">André Soravassi do Carmo</a></div></p>
-        </div>
-        <div class="col-2">
-            <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
-I have also worked with Data Analysis and Business Intelligence using tools like Python and Power BI.
-In this website I plan to post some of my personal projects.</p>
-        </div>
-    </div>
- </section>
- </body>
+
 <section class = "inner-larger">
 <iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400px'></iframe>
 </section>
 
-
-
-<a name="Projects"></a>
-<div class="header">
-  <img src="pbi.png" alt="logo" />
-  <h2>Power BI Dashboards</h2>
-</div>
-<br><br>
-<a href="./seattle-crime.html" class="button">Seattle Crime Trends</a>
-<a href="./covid-dashboard.html" class="button">Covid Dashboard</a>
-
-<div class="header">
-  <img src="tableau.png" alt="logo" />
-  <h2>Tableau Dashboards</h2>
-</div>
-<br><br>
-<a href="./fifa19.html" class="button">FIFA 19 Transfer Guide</a>
-
-<div class="header">
-  <img src="sfdc.png" alt="logo" />
-  <h2>Salesforce</h2>
-</div>
-<br><br>
-<a href="https://trailblazer.me/id/soravassi" target="_blank" class="button">Trailhead Profile</a>
