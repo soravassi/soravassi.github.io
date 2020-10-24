@@ -40,7 +40,7 @@
 <section class = "inner-medium">
 
 
-<h2>Covid Dashboard</h2?
+<h2>Covid Dashboard</h2>
 
 <a href="https://soravassi.github.io/powerbi.html" class="button previous round">&#8249;</a>
 
