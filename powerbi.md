@@ -99,7 +99,7 @@ layout: default
 
     <div class="row">
         <div class="col-1">
-                 <img src="sfdc.png" alt="logo" />
+            <img src="pbi.png" alt="logo" />
         </div>
         <div class="col-2">
             <p>Currently I work with Salesforce Development at BTG Pactual, the largest investment bank in Latin America.
