@@ -2,9 +2,12 @@
 layout: default
 ---
 
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <head>
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
     
             <title>André Soravassi do Carmo | About Me</title>
     <meta name="author" prefix="og: http://ogp.me/ns#" content="André Soravassi do Carmo"/>
@@ -116,7 +119,8 @@ In this website I plan to post some of my personal projects.</p>
         </div>
     </div>
  </section>
- </body>
 <section class = "inner-medium">
 <iframe src="https://public.tableau.com/views/Resume_16027318713720/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400px'></iframe>
 </section>
+ </body>
+</html>
