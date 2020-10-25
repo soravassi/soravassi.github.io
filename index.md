@@ -12,7 +12,6 @@ layout: default
     <meta prefix="og: http://ogp.me/ns#" name="description" content="Andre Carmo's portfolio with Power BI, Tableau, Salesforce, and Python achievements. Currently I work with Salesforce Development at BTG Pactual"/>
     <meta prefix="og: http://ogp.me/ns#" property="og:title" content="André Soravassi do Carmo's Project Portfolio" />
     <meta prefix="og: http://ogp.me/ns#" property=”og:url” content=”https:/andrecarmo.com" />
-        <meta prefix="og: http://ogp.me/ns#" property=”og:keywords” content=”Soravassi, Carmo, Power BI, Tableau, Salesforce, Data, Data Science, Python" />
 
     <meta prefix="og: http://ogp.me/ns#" property=”og:description” content=”Portfolio with Power BI, Tableau, Salesforce, and Python achievements. Currently I work with Salesforce Development at BTG Pactual”/>
     <meta prefix="og: http://ogp.me/ns#" property="og:image" content="./social-preview.png"/>
