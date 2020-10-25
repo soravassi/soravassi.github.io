@@ -7,7 +7,7 @@ layout: default
 <head>
     
     <title>André Soravassi do Carmo's Project Portfolio</title>
-    <meta name="author" prefix="og: http://ogp.me/ns#" content="André Soravassi do Carmo">
+    <meta name="author" prefix="og: http://ogp.me/ns#" content="André Soravassi do Carmo"/>
 
     <meta prefix="og: http://ogp.me/ns#" name="description" content="Andre Carmo's portfolio with Power BI, Tableau, Salesforce, and Python achievements. Currently I work with Salesforce Development at BTG Pactual"/>
     <meta prefix="og: http://ogp.me/ns#" property="og:title" content="André Soravassi do Carmo's Project Portfolio" />
