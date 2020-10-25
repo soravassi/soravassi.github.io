@@ -6,7 +6,15 @@ layout: default
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <head>
     
-    
+            <title>André Soravassi do Carmo | About Me</title>
+    <meta name="author" prefix="og: http://ogp.me/ns#" content="André Soravassi do Carmo"/>
+
+    <meta prefix="og: http://ogp.me/ns#" name="description" content="Portfolio with Power BI, Tableau, Salesforce, and Python achievements. Currently I work with Salesforce Development at BTG Pactual"/>
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="André Soravassi do Carmo | About Me" />
+    <meta prefix="og: http://ogp.me/ns#" property=”og:url” content="https://andrecarmo.com/about.html" />
+
+    <meta prefix="og: http://ogp.me/ns#" property=”og:description” content=”Portfolio with Power BI, Tableau, Salesforce, and Python achievements. Currently I work with Salesforce Development at BTG Pactual”/>
+    <meta prefix="og: http://ogp.me/ns#" property=”og:type” content=”article” />
     <style>
     
     
