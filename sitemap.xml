@@ -1,0 +1,83 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://andrecarmo.com/</loc>
+
+      <lastmod>2020-10-25</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+      <url>
+
+      <loc>https://andrecarmo.com/about.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://andrecarmo.com/powerbi.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://andrecarmo.com/tableau.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://andrecarmo.com/sfdc.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+      <url>
+
+      <loc>https://andrecarmo.com/powerbi/covid-dashboard.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+
+   </url>
+   <url>
+
+      <loc>https://andrecarmo.com/powerbi/seattle-crime.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+   </url>
+   <url>
+
+      <loc>https://andrecarmo.com/tableau/fifa19.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+      
+   </url>
+   <url>
+
+      <loc>https://andrecarmo.com/contact.html</loc>
+
+      <lastmod>2020-10-25</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+   </url>
+
+
+
+</urlset> 
