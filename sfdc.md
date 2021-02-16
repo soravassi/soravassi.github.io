@@ -208,7 +208,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext"></div>
-    <a href = "https://trailblazer.me/id/soravassi" target="_blank"><img src="sfdc-adm201.png" style="width:100%"></a>
+    <a href = "https://trailblazer.me/id/soravassi" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02978abdb905ee51f6a11cb1b5" style="width:100%"></a>
   <div class="text">Salesforce Admin Certification</div>
 </div>
 
