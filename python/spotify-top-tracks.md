@@ -42,10 +42,10 @@ html, body { height: 100% }
 
 <a href="https://soravassi.github.io/python.html" class="button previous round">&#8249;</a>
 
-<p>December is a fantastic month: it has Christmas, New Year's Eve, and Spotify Wrapped. Although this app won't give as much data as Spotify Wrapped would, it can show what your Top 5 songs are for some specific time frames and hopefully bring you some of the December feel. https://lnkd.in/dA-V2Hd
+<p>December is a fantastic month: it has Christmas, New Year's Eve, and Spotify Wrapped. Although this app won't give as much data as Spotify Wrapped would, it can show what your Top 5 songs are for some specific time frames and hopefully bring you some of the December feel.
 
 Took this opportunity to learn the basics of Flask, deploying an app to Heroku, and authenticating an API request with an oauth flow</p>
-  <a href="https://spotify-top-tracks-2021.herokuapp.com/">Click here to go to the app</a>
+  <a href="https://spotify-top-tracks-2021.herokuapp.com/">Click here to go to the app</a> <br>
     <a href="https://github.com/soravassi/SpotifyTopTracks__public">Click here to go to the Github repository</a>
 
 
