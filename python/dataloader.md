@@ -46,5 +46,4 @@ html, body { height: 100% }
 
 <p><i>By clicking below you can find its Github repository</i></p>
 
-<iframe src="https://public.tableau.com/views/Fifa19-Potential/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '800px'></iframe>
-</section>
+ <a href = "https://github.com/soravassi/FauxSFDCDataloader" target="_blank"><img src="dataloader-banner.png" style="width:100%"></a>
