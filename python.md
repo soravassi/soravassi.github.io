@@ -231,7 +231,7 @@ img {vertical-align: middle;}
 </div>
 
 <script>
-var slideIndex = 2;
+var slideIndex = 1;
 showSlides(slideIndex);
 
 function plusSlides(n) {
