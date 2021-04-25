@@ -214,7 +214,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext"></div>
     <a href = "https://andrecarmo.com/python/dataloader.html" target="_blank"><img src="/python/dataloader-banner.png" style="width:100%"></a>
-  <div class="text">Spotify Top Tracks App</div>
+  <div class="text">Salesforce Dataloader</div>
 </div>
 
 
