@@ -208,7 +208,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext"></div>
-    <a href = "https://spotify-top-tracks-2021.herokuapp.com/" target="_blank"><img src="spotifyTopTracks.png" style="width:100%"></a>
+    <a href = "https://andrecarmo.com/python/spotify-top-tracks.html" target="_blank"><img src="spotifyTopTracks.png" style="width:100%"></a>
   <div class="text">Spotify Top Tracks App</div>
 </div>
 <div class="mySlides fade">
