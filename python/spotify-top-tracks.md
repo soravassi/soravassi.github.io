@@ -50,4 +50,4 @@ Took this opportunity to learn the basics of Flask, deploying an app to Heroku, 
 
 
 
- <a href = "https://spotify-top-tracks-2021.herokuapp.com/" target="_blank"><img src="SpotifyTopTracks.png" style="width:100%"></a>
+ <a href = "https://spotify-top-tracks-2021.herokuapp.com/" target="_blank"><img src="spotifyTopTracks.png" style="width:100%"></a>
